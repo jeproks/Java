@@ -12,7 +12,7 @@ public class Comparison
         System.out.println( "Enter first integer: " ); // prompt        
         number1 = input.nextInt(); // read first number from user   
  
-        System.out.print( "Enter second integer: " ); // prompt        
+        System.out.println( "Enter second integer: " ); // prompt        
         number2 = input.nextInt(); // read second number from user               
         
         if ( number1 = number2 )           
