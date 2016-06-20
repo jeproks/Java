@@ -9,7 +9,7 @@ public class Comparison
         int number1; // first number to compare       
         int number2; // second number to compare  
       
-        System.out.print( "Enter first integer: " ); // prompt        
+        System.out.println( "Enter first integer: " ); // prompt        
         number1 = input.nextInt(); // read first number from user   
  
         System.out.print( "Enter second integer: " ); // prompt        
